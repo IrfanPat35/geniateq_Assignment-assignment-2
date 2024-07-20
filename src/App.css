@@ -1,0 +1,13 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+input {
+  margin: 20px;
+  padding: 10px;
+  font-size: 1em;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
